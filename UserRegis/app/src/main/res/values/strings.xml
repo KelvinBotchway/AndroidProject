@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UserRegis</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="i_m_new_here">New User? Sign Up</string>
+    <string name="signup">SignUp</string>
+    <string name="fullname">fullname</string>
+    <string name="email">email</string>
+    <string name="already_have_an_account">Already Registered? <i><b><u>Login</u></b></i></string>
+    <string name="hello_user">Welcome Patient!</string>
+    <string name="signuphere">New User? <u><b><i>Sign Up</i></b></u></string>
+    <string name="loginhere">Already Registered? <i><b><u>Login</u></b></i></string>
+    <string name="welcome_again_patient">Welcome again patient</string>
+    <string name="monday_00_00_2300_hours">Monday | 00:00 - 23:00 Hours</string>
+    <string name="monday_00_00_23_00hours">Monday | 00:00 - 23:00 Hours</string>
+    <string name="booknow">BOOK NOW</string>
+    <string name="book_now">BOOK NOW</string>
+    <string name="monday_00_00_23_00_hours">Monday | 00:00 - 23:00 Hours</string>
+    <string name="book_noww">BOOK NOW</string>
+    <string name="tuesdays_0_00_23_00_hours">Tuesdays | 0:00 - 23:00 Hours</string>
+    <string name="choose_an_appointment_time">Choose an appointment time</string>
+    <string name="wednesdays_0_00_23_00_hours">Wednesdays | 0:00 - 23:00 Hours</string>
+    <string name="congratulations_you_have_succefully_booked_an_appointment">Congratulations you have succefully booked an Appointment</string>
+    <string name="booking_day">Booking Day</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="weight">Weight</string>
+    <string name="submit">Submit</string>
+</resources>
